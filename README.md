@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soroosh-dbi
+- 👋 Hi, I’m Servasch
 - 👀 I’m interested in CFD and its applications in complex chemical and biochemical systems.
 - 💞️ I’m looking to collaborate on projects in either open source software, e.g. OpenFOAM, or commercial software, e.g. ANSYS Fluent.
 Reach me through the email soroush.dabiri@uibk.ac.at
